@@ -1,0 +1,15 @@
+# For Task 1: Language Translator
+deep-translator
+pyperclip
+
+# For Task 2: FAQ Chatbot
+nltk
+scikit-learn
+
+# For Task 4: Object Detection
+opencv-python
+numpy # Also used by scikit-learn, opencv
+# scipy # Was for the tracker, if you removed it from logic, this might not be needed
+
+# Common for GUIs
+Pillow 

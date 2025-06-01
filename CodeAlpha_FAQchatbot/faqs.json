@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "question": "What is AlphaProduct?",
+        "answer": "AlphaProduct is an innovative solution from CodeAlpha designed to enhance your digital experience and productivity."
+    },
+    {
+        "id": 2,
+        "question": "How do I install AlphaProduct?",
+        "answer": "Installation is simple! Download the installer from codealpha.tech/alphaproduct and run it. Follow the on-screen prompts."
+    },
+    {
+        "id": 3,
+        "question": "What are the key features of AlphaProduct?",
+        "answer": "AlphaProduct boasts several key features including: advanced AI integration, a user-friendly interface, robust security protocols, and seamless cloud synchronization."
+    },
+    {
+        "id": 4,
+        "question": "Is there a free trial for AlphaProduct?",
+        "answer": "Yes, we offer a 14-day free trial for AlphaProduct with full access to premium features. No credit card required to start!"
+    },
+    {
+        "id": 5,
+        "question": "How can I contact support if I have issues?",
+        "answer": "Our support team is ready to help! You can reach us via email at services@codealpha.tech or through the contact form on our website www.codealpha.tech."
+    },
+    {
+        "id": 6,
+        "question": "What operating systems does AlphaProduct support?",
+        "answer": "AlphaProduct is currently available for Windows 10/11, macOS (Monterey and newer), and major Linux distributions (Ubuntu, Fedora)."
+    },
+    {
+        "id": 7,
+        "question": "Can I use AlphaProduct on multiple devices?",
+        "answer": "Our standard license allows installation on one primary device. Multi-device licenses are available with our Team and Enterprise plans."
+    },
+    {
+        "id": 8,
+        "question": "How often is AlphaProduct updated?",
+        "answer": "We release minor updates with bug fixes and performance improvements monthly, and major feature updates quarterly. Updates are typically automatic."
+    },
+    {
+        "id": 9,
+        "question": "What is CodeAlpha's mission?",
+        "answer": "CodeAlpha is dedicated to fostering talent and innovation in various domains, providing hands-on experience in cutting-edge technologies through programs like our AI internship."
+    },
+    {
+        "id": 10,
+        "question": "Where can I find information about internships at CodeAlpha?",
+        "answer": "Information about our internship programs, including AI, Web Development, and App Development, can be found on our website at www.codealpha.tech/careers or by contacting services@codealpha.tech."
+    }
+]
