@@ -7,7 +7,7 @@ This repository contains the projects completed as part of the CodeAlpha AI Inte
 ### 1. [Language Translation Tool](./CodeAlpha_LanguageTranslator/)
 A desktop application that translates text between multiple languages using the `deep_translator` library. Features include auto-detect, language swapping, and copy/clear functions.
 *   **Screenshot:** 
-    ![Language Translator GUI](./CodeAlpha Translator\translation.png) 
+    ![Language Translator GUI](./CodeAlpha Translator/translation.png) 
     *(Ensure `translator_main_gui.png` is inside the `CodeAlpha_LanguageTranslator` folder)*
 
 ### 2. [FAQ Chatbot](./CodeAlpha_FAQChatbot/)
