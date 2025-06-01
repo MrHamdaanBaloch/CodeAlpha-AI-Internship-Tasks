@@ -10,7 +10,7 @@ A desktop application that translates text between multiple languages using the 
     ![Language Translator GUI](./CodeAlpha_Translator/translation.png) 
     
 
-### 2. [FAQ Chatbot](./CodeAlpha_FAQChatbot/)
+### 2. [FAQ Chatbot](./CodeAlpha_FAQchatbot/)
 A chatbot designed to answer Frequently Asked Questions about "AlphaProduct." It uses NLTK and Scikit-learn for NLP and similarity matching from a `faqs.json` knowledge base.
 *   **Screenshot:** 
     ![FAQ Chatbot GUI](./CodeAlpha_FAQchatbot\Chatbot.png)
